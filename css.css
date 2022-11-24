@@ -1,0 +1,25 @@
+body {
+    background-color: #ffffff;
+    color: #000000;
+}
+
+.pd-200 {
+    padding-top: 200px;
+}
+
+.pd-150 {
+    padding-top: 150px;
+}
+
+.pd-25 {
+    padding-top: 15px;
+}
+
+.boorder {
+    border: 2px solid #00eeff;
+    background-color: #e2e2e2;
+}
+
+.teks {
+    color: #ffffff;
+}
